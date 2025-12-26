@@ -28,11 +28,11 @@ A powerful and professional Android developer tool that displays real-time infor
 
 <table>
   <tr>
-    <td><img src="screenshots/screenshot_1.jpg" width="320" /></td>
-    <td><img src="screenshots/screenshot_2.jpg" width="320" /></td>
-    <td><img src="screenshots/screenshot_3.jpg" width="320" /></td>
-    <td><img src="screenshots/screenshot_4.jpg" width="320" /></td>
-    <td><img src="screenshots/screenshot_5.jpg" width="320" /></td>
+    <td><img src="screenshots/Screenshot_1.png" width="320" /></td>
+    <td><img src="screenshots/Screenshot_2.png" width="320" /></td>
+    <td><img src="screenshots/Screenshot_3.png" width="320" /></td>
+    <td><img src="screenshots/Screenshot_4.png" width="320" /></td>
+    <td><img src="screenshots/Screenshot_5.png" width="320" /></td>
   </tr>
 </table>
 
