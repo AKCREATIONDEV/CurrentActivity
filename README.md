@@ -26,9 +26,9 @@ A powerful and professional Android developer tool that displays real-time infor
 
 ## 📱 Screenshots
 
-| Screen 1 | Screen 2 | Screen 3 | Screen 4 | Screen 5 |
+| <img src="screenshots/Screenshot_1.png" width="320" /> | <img src="screenshots/Screenshot_2.png" width="320" /> | <img src="screenshots/Screenshot_3.png" width="320" /> | <img src="screenshots/Screenshot_4.png" width="320" /> | <img src="screenshots/Screenshot_5.png" width="320" /> |
 | :---: | :---: | :---: | :---: | :---: |
-| ![1](screenshots/Screenshot_1.png) | ![2](screenshots/Screenshot_2.png) | ![3](screenshots/Screenshot_3.png) | ![4](screenshots/Screenshot_4.png) | ![5](screenshots/Screenshot_5.png) |
+
 
 ## 🔧 Technical Specifications
 
