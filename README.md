@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/app_icon.png" width="120" height="120" alt="App Icon" />
+</p>
+
 # Current Activity - Professional Developer Tool
 
 
@@ -24,7 +28,7 @@ A powerful and professional Android developer tool that displays real-time infor
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4 | Screen 5 |
 | :---: | :---: | :---: | :---: | :---: |
-| ![1](Screenshots/screenshot_1.png) | ![2](Screenshots/screenshot_2.png) | ![3](Screenshots/screenshot_3.png) | ![4](Screenshots/screenshot_4.png) | ![5](Screenshots/screenshot_5.png) |
+| ![1](screenshots/Screenshot_1.png) | ![2](screenshots/Screenshot_2.png) | ![3](screenshots/Screenshot_3.png) | ![4](screenshots/Screenshot_4.png) | ![5](screenshots/Screenshot_5.png) |
 
 ## 🔧 Technical Specifications
 
